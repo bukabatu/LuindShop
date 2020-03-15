@@ -1,0 +1,38 @@
+{
+  "name": "Bukabatu",
+  "short_name": "LuindShop",
+  "start_url": "https://bukabatu.online/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "The Most Complete and Cheapest Quality Gemstone Collection / Template Premium / VCC Paypal / Software / Web / Online Store / CCTV",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Qg3xFF0_E0U/Xm2maT97_dI/AAAAAAAAA3U/tIjTKmkhi6sVwddQVarb4ZfdMvGrarFDQCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MavXqhiNrEY/Xm2maZa1RmI/AAAAAAAAA3Y/NSrZoFfk-X4NpPZ1VTzbdkHfsLKYC2twQCLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wkMXsKfXMqU/Xm2mamfpAWI/AAAAAAAAA3c/MuGbrGxkfsADyAuivyVnUrM4hK8xoj40wCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FEBCZe-poAA/Xm2mbfHYbTI/AAAAAAAAA3o/XH5nIyXkxosknnumt7CoEKb8rtG-U0_RQCLcBGAsYHQ/s1600/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-yCOAojMFokg/Xm2mblcixmI/AAAAAAAAA3s/Hk1bClTrtJ815POzkHmAybLCXOYP_LZvwCLcBGAsYHQ/s1600/apple-icon-152x152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Bs7k21Mr4GU/Xm2mZgsWvAI/AAAAAAAAA3M/ctmfuddmN0MiIAoxIOhuAErMv0o5rsiSgCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Su69bW2iy60/Xm2mgKW9P_I/AAAAAAAAA4o/ANJCKiGseFgNyylhHASbDfmGyX5HlvgHACLcBGAsYHQ/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }]
+}
